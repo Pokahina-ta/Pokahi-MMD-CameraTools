@@ -1,0 +1,7 @@
+{
+  "name": "Pokahi.MmdCameraTools.Editor",
+  "rootNamespace": "Pokahi.MmdCameraTools",
+  "includePlatforms": [
+    "Editor"
+  ]
+}
